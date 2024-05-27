@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-<a href="https://discord.gg/mGZE39AS3e">Discord</a>
-</p>
-
-<p align="center">
 <a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html">🦜️🔗 Official Langchain Backend</a> 
 </p>
 
@@ -58,11 +54,11 @@ Find the most up-to-date information on the [GPT4All Website](https://gpt4all.io
 
 ### Bindings
 
-* <a href="https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/python/README.md">:snake: Official Python Bindings</a> [![Downloads](https://static.pepy.tech/badge/gpt4all/week)](https://pepy.tech/project/gpt4all)
-* <a href="https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript">:computer: Official Typescript Bindings</a>
-* <a href="https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/golang">:computer: Official GoLang Bindings</a>
-* <a href="https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/csharp">:computer: Official C# Bindings</a>
-* <a href="https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/java">:computer: Official Java Bindings</a>
+* <a href="https://github.com/secretstar919/gpt4all/tree/main/gpt4all-bindings/python/README.md">:snake: Official Python Bindings</a> [![Downloads](https://static.pepy.tech/badge/gpt4all/week)](https://pepy.tech/project/gpt4all)
+* <a href="https://github.com/secretstar919/gpt4all/tree/main/gpt4all-bindings/typescript">:computer: Official Typescript Bindings</a>
+* <a href="https://github.com/secretstar919/gpt4all/tree/main/gpt4all-bindings/golang">:computer: Official GoLang Bindings</a>
+* <a href="https://github.com/secretstar919/gpt4all/tree/main/gpt4all-bindings/csharp">:computer: Official C# Bindings</a>
+* <a href="https://github.com/secretstar919/gpt4all/tree/main/gpt4all-bindings/java">:computer: Official Java Bindings</a>
 
 ### Integrations
 
@@ -82,14 +78,6 @@ Example tags: `backend`, `bindings`, `python-bindings`, `documentation`, etc.
 <a href="https://gpt4all.io/reports/GPT4All_Technical_Report_3.pdf">:green_book: Technical Report 3: GPT4All Snoozy and Groovy </a>
 </p>
 
-<p align="center">
-<a href="https://static.nomic.ai/gpt4all/2023_GPT4All-J_Technical_Report_2.pdf">:green_book: Technical Report 2: GPT4All-J </a>
-</p>
-
-<p align="center">
-<a href="https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf">:green_book: Technical Report 1: GPT4All</a>
-</p>
-
 ## Citation
 
 If you utilize this repository, models or data in a downstream project, please consider citing it with:
@@ -100,6 +88,6 @@ If you utilize this repository, models or data in a downstream project, please c
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/nomic-ai/gpt4all}},
+  howpublished = {\url{https://github.com/secretstar919/gpt4all}},
 }
 ```
